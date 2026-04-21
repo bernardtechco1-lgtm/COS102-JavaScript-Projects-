@@ -1,3 +1,12 @@
 [submodule "Group_24_quickbite"]
 	path = Group_24_quickbite
 	url = https://github.com/atech-inc/Group_24_quickbite.git
+[submodule "Group_22_Item_price_generator"]
+	path = Group_22_Item_price_generator
+	url = https://github.com/AdelekeEniola/Group_22_Item_price_generator.git
+[submodule "Group_12_Veri-Vote"]
+	path = Group_12_Veri-Vote
+	url = https://github.com/laucin/Group_12_Veri-Vote.git
+[submodule "Group_2_ChatRoom"]
+	path = Group_2_ChatRoom
+	url = https://github.com/LordAres999/Group_2_ChatRoom.git
