@@ -86,3 +86,7 @@
 .hide.reveal{
     display: block;
 }
+
+#name{
+    text-align: center;
+}
