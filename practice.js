@@ -13,4 +13,4 @@ class name{
 
 let obj = new name("Bernard", 18);
 
-console.log(obj.displayFunction());
+console.log(obj.displayFunction);
