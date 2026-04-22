@@ -13,3 +13,6 @@
 [submodule "Group_11_SmartRide"]
 	path = Group_11_SmartRide
 	url = https://github.com/solarewaju12-ship-it/Group_11_SmartRide.git
+[submodule "Group_5_GroupContributionSystem"]
+	path = Group_5_GroupContributionSystem
+	url = https://github.com/JaxelDrainz/Group_5_GroupContributionSystem.git
