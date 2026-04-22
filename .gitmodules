@@ -10,3 +10,6 @@
 [submodule "Group_2_ChatRoom"]
 	path = Group_2_ChatRoom
 	url = https://github.com/LordAres999/Group_2_ChatRoom.git
+[submodule "Group_11_SmartRide"]
+	path = Group_11_SmartRide
+	url = https://github.com/solarewaju12-ship-it/Group_11_SmartRide.git
