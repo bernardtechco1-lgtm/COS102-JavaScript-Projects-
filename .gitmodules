@@ -16,3 +16,12 @@
 [submodule "Group_5_GroupContributionSystem"]
 	path = Group_5_GroupContributionSystem
 	url = https://github.com/JaxelDrainz/Group_5_GroupContributionSystem.git
+[submodule "GROUP_16_Lost-And-Found-Portal-"]
+	path = GROUP_16_Lost-And-Found-Portal-
+	url = https://github.com/SlowZ-learn/GROUP_16_Lost-And-Found-Portal-.git
+[submodule "group_7_VotingSystem"]
+	path = group_7_VotingSystem
+	url = https://github.com/JayzAdamz/group_7_VotingSystem.git
+[submodule "Group_20_StatDash"]
+	path = Group_20_StatDash
+	url = https://github.com/DEXT3R07/Group_20_StatDash.git
