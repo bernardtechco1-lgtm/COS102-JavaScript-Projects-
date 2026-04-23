@@ -25,3 +25,9 @@
 [submodule "Group_20_StatDash"]
 	path = Group_20_StatDash
 	url = https://github.com/DEXT3R07/Group_20_StatDash.git
+[submodule "Group8_Ai-chat"]
+	path = Group8_Ai-chat
+	url = https://github.com/Leonx-try/Group8_Ai-chat.git
+[submodule "GROUP15-BLOCK-GAME"]
+	path = GROUP15-BLOCK-GAME
+	url = https://github.com/Yahaya-Joseph/GROUP15-BLOCK-GAME.git
